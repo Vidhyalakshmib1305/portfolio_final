@@ -10,7 +10,7 @@ export const profile = {
 
 export const about = {
   paragraph:
-    "I'm a final-year B.Tech student in Artificial Intelligence and Data Science, and I build systems that turn messy real-world data into working intelligence -- retrieval pipelines, multi-agent workflows, and computer vision models that hold up outside a notebook. I enjoy the part where research meets production: indexing thousands of files into a vector store, getting agents to reason over live data, or pushing a model's accuracy past what a benchmark expects. Let's build something intelligent together!",
+    "I recently completed my B.Tech in Artificial Intelligence and Data Science, and I build systems that turn messy real-world data into working intelligence -- retrieval pipelines, multi-agent workflows, and computer vision models that hold up outside a notebook. I enjoy the part where research meets production: indexing thousands of files into a vector store, getting agents to reason over live data, or pushing a model's accuracy past what a benchmark expects. Let's build something intelligent together!",
 };
 
 export const education = [
